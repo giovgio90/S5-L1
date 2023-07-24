@@ -256,6 +256,12 @@ footer a {
     font-size: 2rem;
   }
 
+  table {
+    margin-inline: auto;
+    width: 70%;
+    margin-block: 80px;
+  }
+
   input {
     padding-block: 13px;
     padding-right: 260px;
@@ -351,7 +357,7 @@ footer a {
   }
 
   table {
-    margin-inline: 290px;
+    margin-inline: auto;
     width: 50%;
     margin-block: 100px;
   }
